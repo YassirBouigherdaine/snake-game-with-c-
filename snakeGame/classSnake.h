@@ -18,8 +18,6 @@ private:
 
 public:
 	Snake(COORD pos, int step);
-	~Snake();
-
 	COORD get_head_pos();                  // get snake head position
 	std::vector<COORD>get_body_pos();      // get snake body position
 
