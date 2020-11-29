@@ -10,10 +10,6 @@ Snake::Snake(COORD pos, int step)
     body.push_back(position);
 	direction = 'n';          // direction not defined yet
 }
-Snake::~Snake()
-{
-
-}
 
 COORD Snake::get_head_pos()
 {
