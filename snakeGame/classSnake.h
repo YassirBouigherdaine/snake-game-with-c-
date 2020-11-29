@@ -33,6 +33,5 @@ public:
 
 	void add_size();                      // increasing the lenght of snake
 
-	void add_speed();
 };
 
