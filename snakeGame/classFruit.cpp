@@ -6,10 +6,6 @@ Fruit::Fruit()
 {
 	generate_fruit();
 }
-Fruit::~Fruit()
-{
-
-}
 
 COORD Fruit::get_fruit_pos()
 {
