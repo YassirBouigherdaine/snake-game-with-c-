@@ -12,7 +12,6 @@ private:
 
 public:
 	Fruit();
-	~Fruit();
 
 	COORD get_fruit_pos();         // get fruit position
 
