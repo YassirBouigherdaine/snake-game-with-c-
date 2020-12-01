@@ -26,11 +26,6 @@ void Snake::add_size()
     size++;
 }
 
-void Snake::add_speed()
-{
-    Step++;
-}
-
 void Snake::turn_right()
 {
 	direction = 'e';
